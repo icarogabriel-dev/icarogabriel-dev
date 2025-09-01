@@ -25,15 +25,6 @@ Me chamo Ícaro Gabriel Almeida Spinassé, tenho 19 anos e sou natural do Espír
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-/>
-
 <img 
     align="left"
     alt="HTML"
