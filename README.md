@@ -70,7 +70,7 @@ Me chamo Ícaro Gabriel Almeida Spinassé, tenho 19 anos e sou natural do Espír
 ### 📊 Estatísticas
 
 <p align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=icarogabriel-dev&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="65%px" height="65%" alt="icarogabriel-dev github-readme-stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=icarogabriel-dev&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="50%px" height="50%" alt="icarogabriel-dev github-readme-stats"/>
 
 
 
