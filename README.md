@@ -1,82 +1,63 @@
-# 🧑🏻‍💻 Ícaro Gabriel
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-**'Desenvolvedor Back-End'**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Notosans&size=30&pause=1000&color=3996CD&center=true&vCenter=true&width=1100&height=70&lines=Back-end+Developer;My+name's+Icaro+Gabriel;I'm+from+Brazil%2C+Esp%C3%ADrito+Santo)](https://git.io/typing-svg)
 
-Me chamo Ícaro Gabriel Almeida Spinassé, tenho 19 anos e sou natural do Espírito Santo. Conclui o Ensino Médio no Darwin. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UCL, e assim que acabar o curso pretendo fazer uma pós-graduação em Sistemas de Informação. Sou desenvolvedor Back-End, porém tenho conhecimento básico em desenvolvimento Front-End.
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+  <table align="center" cellspacing="10">
+    <tr>
+      <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <br><span style="color: white;">Java</span>
+      </td>
+      <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br><span style="color: white;">MySQL</span>
+      </td>
+      <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br><span style="color: white;">Docker</span>
+      </td>
+      <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
+        <br><span style="color: white;">Git</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left">
-        <a href="https://github.com/icarogabriel-dev?tab=followers">
-            <img alt="followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/icarogabriel-dev?color=267ad3&labelColor=1155ba&style=for-the-badge&logo=github-add&label=seguidores&logoColor=white"/></a>
-        <a href="https://github.com/icarogabriel-dev?tab=repositories&sort=stargazers">
-            <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/icarogabriel-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Notosans&size=30&pause=1000&color=3996CD&center=true&vCenter=true&width=1100&height=70&lines=Contact+me)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ícaro-gabriel-5a6a40349/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3996CD" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://wa.me/5511999999999" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=3996CD" alt="WhatsApp" />
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-
-
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-                 
-
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Notosans&size=30&pause=1000&color=3996CD&center=true&vCenter=true&width=1100&height=70&lines=Contribuitions)](https://git.io/typing-svg)
 
 <p align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=icarogabriel-dev&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="44%px" height="44%" alt="icarogabriel-dev github-readme-stats"/>
+  <a href="https://github.com/icarogabriel-dev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=icarogabriel-dev&theme=transparent&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=icarogabriel-dev&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=000000&title_color=3996CD&icon_color=3996CD&text_color=FFFFFF" width="48%" alt="Icaro Gabriel github-readme-stats"/>
+</p>
 
+---
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=icarogabriel-dev&bg_color=000000&color=3996CD&line=3996CD&point=3996CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-          
-          
-          
-          
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
