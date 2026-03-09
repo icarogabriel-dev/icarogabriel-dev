@@ -48,7 +48,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=icarogabriel-dev&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&bg_color=000000&title_color=3996CD&icon_color=3996CD&text_color=FFFFFF" width="48%" alt="Icaro Gabriel github-readme-stats"/>
@@ -56,8 +55,10 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=icarogabriel-dev&bg_color=000000&color=3996CD&line=3996CD&point=3996CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
+<<p align="center">
+  <a href="https://github.com/icarogabriel-dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=icarogabriel-dev&bg_color=0d1117&color=3996CD&line=3996CD&point=3996CD&area=true&area_color=3996CD&hide_border=true&custom_title=Graph%20" alt="Contribution Graph" />
+  </a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
