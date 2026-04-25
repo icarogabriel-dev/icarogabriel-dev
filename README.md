@@ -6,20 +6,24 @@
   <table align="center" cellspacing="10">
     <tr>
       <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
         <br><span style="color: white;">Java</span>
       </td>
       <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br><span style="color: white;">MySQL</span>
+        <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="65" height="65" />
+        <br><span style="color: white;">Spring Boot</span>
       </td>
       <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
         <br><span style="color: white;">Docker</span>
       </td>
       <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
-        <br><span style="color: white;">Git</span>
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="65" height="65" />
+        <br><span style="color: white;">PostgreSQL</span>
+      </td>
+      <td align="center" width="96" style="background-color: #1E40AF; border-radius: 12px; padding: 10px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+        <br><span style="color: white;">MongoDB</span>
       </td>
     </tr>
   </table>
